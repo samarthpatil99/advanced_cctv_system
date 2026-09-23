@@ -1,0 +1,6 @@
+{
+  "name": "Statewide CCTV Asset Intelligence Platform",
+  "description": "Integrated statewide CCTV asset intelligence registry (Model 1) and unified viewing & metadata analytics platform (Model 2) covering Video Wall, ANPR, cross-camera movement, events, and investigation dossiers across Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
